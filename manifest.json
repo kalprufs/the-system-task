@@ -2,7 +2,7 @@
   "name": "The System",
   "short_name": "The System",
   "description": "A task management system",
-  "start_url": "/the-system-task/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#E6EDDC",
   "theme_color": "#E6EDDC",
