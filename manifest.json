@@ -1,0 +1,26 @@
+{
+  "name": "The System",
+  "short_name": "The System",
+  "description": "A task management system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E6EDDC",
+  "theme_color": "#E6EDDC",
+  "icons": [
+    {
+      "src": "icons/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
