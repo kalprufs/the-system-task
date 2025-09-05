@@ -1,0 +1,7 @@
+/* filepath: Runiga.css */
+@font-face {
+    font-family: 'Runiga';
+    src: url('fonts/Runiga.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
